@@ -1,2 +1,15 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9679313&assignment_repo_type=AssignmentRepo)
-# Programming Foundations CA
+# Phone Object
+
+This object has the following properties:
+
+Apple (String), is the brand of the phone.
+
+13 (Number,) phone model.
+
+256gb (Number), is the phone memory.
+
+Specification (Array), the diferent specification of the phone.
+
+ON (Boolean), if the phone is ON or not.
+
+Switch (Function), if the phone is switchOn or switchOff.
