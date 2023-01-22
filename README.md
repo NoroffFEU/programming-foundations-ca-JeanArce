@@ -10,6 +10,6 @@ Apple (String), is the brand of the phone.
 
 Specification (Array), the diferent specification of the phone.
 
-On (Boolean), if the phone is on or not.
+ON (Boolean), if the phone is ON or not.
 
 Switch (Function), if the phone is switchOn or switchOff.
